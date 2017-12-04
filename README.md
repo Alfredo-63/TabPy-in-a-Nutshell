@@ -1,4 +1,4 @@
-# A TabPy bootcamp
+# TabPy in a Nuthell
 ##   Focused on functions written in Python and referenced from Tableau
 By: Alfredo Pirrone
 
@@ -17,6 +17,5 @@ Topics covered:
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"/>
 </a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title" style="font-size:12px">
-"A TabPy bootcamp"</span><a style="font-size:12px"> by </a>
+"TabPy in a Nutshell"</span><a style="font-size:12px"> by </a>
 <a xmlns:cc="http://creativecommons.org/ns#" xhref="GitHub" property="cc:attributionName" rel="cc:attributionURL" style="font-size:10px">Alfredo Pirrone</a><a style="font-size:12px"> is licensed under a </a><a rel="license" style="font-size:10px" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
